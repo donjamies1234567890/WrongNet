@@ -1,1 +1,1 @@
-connected to WrongNet
+Failure connecting to WrongNet with Error sorry, the game's dead
